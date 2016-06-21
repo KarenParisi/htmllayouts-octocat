@@ -1,0 +1,49 @@
+.octocat img {
+	height: 200px;
+	width: 200px;
+	border: 1px solid black;
+
+}
+.image-footer img {
+	height:15px;
+	width: 15px;
+	position:relative;
+}
+span.image-number {
+	font-size: 9px;
+	font-style: italic;
+	font-family: Arial;
+	position:relative;
+}
+div.image-caption {
+	font-size: 9px;
+	font-family: Arial;
+	position: relative;
+	top: -12px;
+	left:65px;
+	}
+a {
+	font-weight:bold;
+}
+ul {
+	list-style: none;
+}
+
+li.octocat {
+	display: inline-block;
+}
+div.image-footer {
+	border: 5px solid black;
+	display: block;
+}
+ul.authors {
+	
+}
+
+
+	
+
+
+
+
+
